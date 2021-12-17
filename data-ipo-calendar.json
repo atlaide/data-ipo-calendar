@@ -1,16 +1,5 @@
 [
     {
-        "company_name": "Company Name",
-        "company_logo": "Company Logo",
-        "ipo_date": "IPO Date",
-        "ticker": "Ticker",
-        "ipo_type": "IPO Type",
-        "ipo_price": "IPO Price",
-        "capitalization": "Capitalization",
-        "valuation": "Valuation",
-        "shares": "Shares"
-    },
-    {
         "company_name": "Company Name 1",
         "company_logo": "Company Logo",
         "ipo_date": "IPO Date",
