@@ -18,7 +18,7 @@
         "ipo_date": "Jan 7, 21",
         "ticker": "64.3",
         "ipo_type": "CING",
-        "ipo_price": "$56",
+        "ipo_price": "$51",
         "capitalization": "123 mln $",
         "valuation": "-25.80%",
         "shares": "33mln $"
@@ -30,7 +30,7 @@
         "ipo_date": "Jan 2, 19",
         "ticker": "14.3",
         "ipo_type": "CING",
-        "ipo_price": "$36",
+        "ipo_price": "$37",
         "capitalization": "13mln $",
         "valuation": "-12.80%",
         "shares": "19mln $"
@@ -42,7 +42,7 @@
         "ipo_date": "Feb 2, 21",
         "ticker": "54.3",
         "ipo_type": "CING",
-        "ipo_price": "$56",
+        "ipo_price": "$32",
         "capitalization": "93mln $",
         "valuation": "-12.80%",
         "shares": "19mln $"
@@ -52,11 +52,23 @@
         "company_name": "Grab Inc.",
         "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
         "ipo_date": "March 9, 18",
-        "ticker": "14.3",
+        "ticker": "34.3",
         "ipo_type": "CING",
-        "ipo_price": "$36",
+        "ipo_price": "$31",
         "capitalization": "91mln $",
         "valuation": "-18.80%",
         "shares": "39mln $"
-    }
+    },
+    {
+        "status": "comingsoon",
+        "company_name": "Google Inc.",
+        "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
+        "ipo_date": "March 9, 12",
+        "ticker": "22.3",
+        "ipo_type": "GDB",
+        "ipo_price": "$11",
+        "capitalization": "9mln $",
+        "valuation": "-36.80%",
+        "shares": "11mln $"
+    },
 ]
