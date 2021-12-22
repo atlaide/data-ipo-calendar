@@ -1,6 +1,6 @@
 [
     {
-        "status": "completed",
+        "status": "available",
         "company_name": "Cingulate Inc.",
         "company_logo": "https://findale.pro/api/data/aatn4akfx/Cingulate_Inc-4.jpg",
         "ipo_date": "Dec 7, 21",
@@ -12,7 +12,7 @@
         "shares": "33mln $"
     },
     {
-        "status": "completed",
+        "status": "available",
         "company_name": "Metaverse Inc.",
         "company_logo": "https://findale.pro/api/data/aavhbmwvl/Chicago_Atlantic_Real_Estate_Finance_Inc-4.jpg",
         "ipo_date": "Jan 7, 21",
@@ -24,7 +24,7 @@
         "shares": "33mln $"
     },
     {
-        "status": "completed",
+        "status": "available",
         "company_name": "Alphabet Inc.",
         "company_logo": "https://findale.pro/api/data/aau6qwpfy/HashiCorp_Inc-4.jpg",
         "ipo_date": "Jan 2, 19",
